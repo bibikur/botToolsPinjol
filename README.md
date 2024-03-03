@@ -1,6 +1,6 @@
-# Dnnme2
-New version of telegram deanonymization bot 
-Author:Telegram @lamer112311 
-DISCORD: cutt.ly/CyberPuffin
-Full documentation https://telegra.ph/Sozdaem-bota-dlya-deanonimizacii-04-26
+# Bot Tools Pinjol
+New version of Media Tools Pinjol 
+Author:Youtube Tools Pinjol 
+Owner: Bang Abay Tools Pinjol
+Full documentation https://www.toolspinjonterbaru.org
 # Pinjol-bot1
